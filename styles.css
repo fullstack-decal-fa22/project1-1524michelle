@@ -109,7 +109,7 @@ body {
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 .cat-img {
@@ -119,7 +119,6 @@ body {
 }
 
 #submit-button {
-  color: red;
   margin-top: 10px;
 }
 
